@@ -51,12 +51,12 @@
       "backgroundColor1": "rgba(0, 0, 0, 0)",
       "backgroundColor2": "rgba(10, 10, 10, 0.05)",
       "backgroundColor3": "rgba(20, 20, 20, 0.1)",
-      "rgbColor1": "rgba(255, 0, 0, 0.1)",
-      "rgbColor2": "rgba(255, 0, 0, 0.05)" ,
-      "mainColor": "#ff0000ff",
-      "secondaryColor": "#cc0000ff",
-      "textShadow": "rgba(255, 0, 0, 0.6)",
-      "photoShadowColor": "rgba(255, 0, 0, 0.5)"
+      "rgbColor1": "rgba(224, 15, 43, 0.1)",
+      "rgbColor2": "rgba(224, 15, 43, 0.05)" ,
+      "mainColor": "#e00f2bff",
+      "secondaryColor": "#a00820ff",
+      "textShadow": "rgba(224, 15, 43, 0.6)",
+      "photoShadowColor": "rgba(224, 15, 43, 0.5)"
     },
     "purple": {
       "backgroundColor1": "rgba(61, 24, 83, 0)", 
