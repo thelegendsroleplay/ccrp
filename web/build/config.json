@@ -22,7 +22,7 @@
     "sandwich"
   ],
   
-  "theme": "white",
+  "theme": "red",
 
   "themes" : {
     "yellow": {
@@ -48,15 +48,15 @@
       "photoShadowColor": "rgba(15, 210, 224, 0.3)"
     },
     "red": {
-      "backgroundColor1": "rgba(83, 24, 24, 0)", 
-      "backgroundColor2": "rgba(80, 18, 18, 0.05)", 
-      "backgroundColor3": "rgba(134, 24, 24, 0.1)",
-      "rgbColor1": "rgba(224, 15, 15, 0.1)",
-      "rgbColor2": "rgba(224, 15, 15, 0.05)" ,
-      "mainColor": "#e00f2bff",
-      "secondaryColor": "#7a0808ff",
-      "textShadow": "rgba(224, 15, 15, 0.36)",
-      "photoShadowColor": "rgba(224, 15, 15, 0.3)"
+      "backgroundColor1": "rgba(42, 42, 42, 0)",
+      "backgroundColor2": "rgba(32, 32, 32, 0.05)",
+      "backgroundColor3": "rgba(58, 58, 58, 0.1)",
+      "rgbColor1": "rgba(220, 38, 38, 0.1)",
+      "rgbColor2": "rgba(220, 38, 38, 0.05)" ,
+      "mainColor": "#dc2626ff",
+      "secondaryColor": "#991b1bff",
+      "textShadow": "rgba(220, 38, 38, 0.36)",
+      "photoShadowColor": "rgba(220, 38, 38, 0.3)"
     },
     "purple": {
       "backgroundColor1": "rgba(61, 24, 83, 0)", 
