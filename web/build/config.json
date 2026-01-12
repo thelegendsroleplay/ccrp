@@ -48,15 +48,15 @@
       "photoShadowColor": "rgba(15, 210, 224, 0.3)"
     },
     "red": {
-      "backgroundColor1": "rgba(42, 42, 42, 0)",
-      "backgroundColor2": "rgba(32, 32, 32, 0.05)",
-      "backgroundColor3": "rgba(58, 58, 58, 0.1)",
-      "rgbColor1": "rgba(220, 38, 38, 0.1)",
-      "rgbColor2": "rgba(220, 38, 38, 0.05)" ,
-      "mainColor": "#dc2626ff",
-      "secondaryColor": "#991b1bff",
-      "textShadow": "rgba(220, 38, 38, 0.36)",
-      "photoShadowColor": "rgba(220, 38, 38, 0.3)"
+      "backgroundColor1": "rgba(0, 0, 0, 0)",
+      "backgroundColor2": "rgba(10, 10, 10, 0.05)",
+      "backgroundColor3": "rgba(20, 20, 20, 0.1)",
+      "rgbColor1": "rgba(255, 0, 0, 0.1)",
+      "rgbColor2": "rgba(255, 0, 0, 0.05)" ,
+      "mainColor": "#ff0000ff",
+      "secondaryColor": "#cc0000ff",
+      "textShadow": "rgba(255, 0, 0, 0.6)",
+      "photoShadowColor": "rgba(255, 0, 0, 0.5)"
     },
     "purple": {
       "backgroundColor1": "rgba(61, 24, 83, 0)", 
